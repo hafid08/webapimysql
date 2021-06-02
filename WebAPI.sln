@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{CA46A85B-3F5A-4025-A1E8-21D025607089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loyalto", "Loyalto\Loyalto.csproj", "{679F78A4-BD5B-4905-B5BD-AB495F3CCABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA46A85B-3F5A-4025-A1E8-21D025607089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA46A85B-3F5A-4025-A1E8-21D025607089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA46A85B-3F5A-4025-A1E8-21D025607089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA46A85B-3F5A-4025-A1E8-21D025607089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679F78A4-BD5B-4905-B5BD-AB495F3CCABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679F78A4-BD5B-4905-B5BD-AB495F3CCABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679F78A4-BD5B-4905-B5BD-AB495F3CCABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679F78A4-BD5B-4905-B5BD-AB495F3CCABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE82D48-E1F2-4568-81D0-A34560E92063}
+	EndGlobalSection
+EndGlobal
